@@ -20,11 +20,14 @@ while True:
 print('=-' * 30)
 print(f'Foram cadastradas {len(pessoas)} pessoas.')
 print(f'O maior peso foi de {maior}Kg. Peso de ', end=' ')
+
 for p in pessoas:
     if p[1] == maior:
         print(f'[{p[0]}]', end=' ')
+
 print()
 print(f'O menor peso foi de {menor}Kg. Peso de ', end=' ')
+
 for p in pessoas:
     if p[1] == menor:
         print(f'[{p[0]}]', end=' ')
