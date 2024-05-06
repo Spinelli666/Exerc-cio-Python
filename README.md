@@ -11,3 +11,4 @@ Exercícios em Python que fiz ao longo do curso do Professor Gustavo Guanabara d
 - [Exercício do 61 ao 70](./doc/61_ao_70.md)
 - [Exercício do 71 ao 80](./doc/71_ao_80.md)
 - [Exercício do 81 ao 90](./doc/81_ao_90.md)
+- [Exercício do 91 ao 100](./doc/91_ao_100.md)
